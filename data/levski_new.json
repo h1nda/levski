@@ -1,0 +1,6369 @@
+[
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Гара Дембеле"
+    ],
+    "date": "01 август 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Гара Дембеле",
+      "Гара Дембеле",
+      "Гара Дембеле",
+      "Преслав Йорданов"
+    ],
+    "date": "09 август 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черноморец Бургас (Бургас)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Георги Андонов",
+      "Рикардо Андре",
+      "Александър Александров"
+    ],
+    "date": "15 август 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Калиакра (Каварна)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Антон Петров (аг)",
+      "Александър Александров",
+      "Исмаил Иса"
+    ],
+    "date": "22 август 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Видима-Раковски (Севлиево)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Гара Дембеле",
+      "Дарко Тасевски",
+      "Герасим Заков"
+    ],
+    "date": "30 август 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Миньор (Перник)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Жоаозиньо",
+      "Гара Дембеле",
+      "Гара Дембеле",
+      "Гара Дембеле"
+    ],
+    "date": "12 септември 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Даниел Младенов",
+      "Йордан Милиев",
+      "Георги Божилов",
+      "Гара Дембеле",
+      "Георги Илиев"
+    ],
+    "date": "20 септември 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Гара Дембеле",
+      "Петър Димитров",
+      "Христо Йовов"
+    ],
+    "date": "26 септември 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Сливен 2000 (Сливен)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Дарко Тасевски",
+      "Евгени Игнатов"
+    ],
+    "date": "04 октомври 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Пирин Благоевград (Благоевград)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Борис Кондев",
+      "Гара Дембеле",
+      "Гара Дембеле",
+      "Мариян Огнянов",
+      "Гара Дембеле"
+    ],
+    "date": "16 октомври 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Гара Дембеле",
+      "Христо Янев",
+      "Светослав Тодоров"
+    ],
+    "date": "25 октомври 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1936 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Здравко Лазаров",
+      "Базиле де Карвальо",
+      "Мариян Огнянов"
+    ],
+    "date": "30 октомври 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Сержиньо Грийн",
+      "Николай Божов",
+      "Галин Иванов",
+      "Жоаозиньо"
+    ],
+    "date": "07 ноември 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Академик (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Исмаил Иса"
+    ],
+    "date": "13 ноември 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Даниел Младенов",
+      "Гара Дембеле",
+      "Гара Дембеле"
+    ],
+    "date": "27 ноември 2010 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Мишел Платини",
+      "Мишел Платини",
+      "Апостол Попов",
+      "Костадин Стоянов (аг)"
+    ],
+    "date": "26 февруари 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Гара Дембеле",
+      "Ивайло Димитров (аг)"
+    ],
+    "date": "06 март 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черноморец Бургас (Бургас)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Дарко Тасевски"
+    ],
+    "date": "12 март 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Видима-Раковски (Севлиево)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Гара Дембеле",
+      "Исмаил Иса"
+    ],
+    "date": "02 април 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Миньор (Перник)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "date": "10 април 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Иво Иванов"
+    ],
+    "date": "17 април 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Христо Йовов",
+      "Евгени Йорданов",
+      "Александър Александров",
+      "Владислав Златинов (д)",
+      "Жанвион Юлу-Матондо"
+    ],
+    "date": "24 април 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Сливен 2000 (Сливен)",
+    "levski_goals": 5,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Гара Дембеле",
+      "Жанвион Юлу-Матондо",
+      "Гара Дембеле",
+      "Даниел Младенов",
+      "Гара Дембеле"
+    ],
+    "date": "01 май 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Пирин Благоевград (Благоевград)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Иван Цветков",
+      "Жанвион Юлу-Матондо",
+      "Гара Дембеле",
+      "Христо Йовов",
+      "Иван Цветков (д)"
+    ],
+    "date": "04 май 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Гара Дембеле",
+      "Христо Йовов"
+    ],
+    "date": "08 май 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1936 (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Базле де Карвальо",
+      "Дарко Тасевски",
+      "Гара Дембеле",
+      "Гара Дембеле",
+      "Здравко Лазаров (д)"
+    ],
+    "date": "14 май 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Христо Йовов",
+      "Владимир Гаджев",
+      "Христо Йовов"
+    ],
+    "date": "18 май 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Академик (София)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Владимир Гаджев",
+      "Даниел Младенов",
+      "Даниел Младенов"
+    ],
+    "date": "21 май 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Веселин Минев",
+      "Гара Дембеле",
+      "Христо Йовов"
+    ],
+    "date": "27 май 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Банско",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Гара Дембеле",
+      "Слави Шопов (аг)",
+      "Павел Петков",
+      "Гара Дембеле"
+    ],
+    "date": "20 ноември 2010 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Владимир Гаджев"
+    ],
+    "date": "08 декември 2010 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Дъндолк",
+    "levski_goals": 6,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Христо Йовов",
+      "Даниел Младенов",
+      "Гара Дембеле",
+      "Даниел Младенов",
+      "Исмаил Иса",
+      "Исмаил Иса"
+    ],
+    "date": "15 юли 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Дъндолк",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Гара Дембеле",
+      "Гара Дембеле"
+    ],
+    "date": "22 юли 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Калмар",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Жоаозиньо",
+      "Абиола Дауда"
+    ],
+    "date": "29 юли 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Калмар",
+    "levski_goals": 5,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Гара Дембеле",
+      "Даниел Младенов",
+      "Гара Дембеле",
+      "Матиас Йохансон",
+      "Ерик Исраелсон",
+      "Исмаил Иса",
+      "Исмаил Иса"
+    ],
+    "date": "05 август 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "АИК (Стокхолм)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "date": "19 август 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "АИК (Стокхолм)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Мохамед Бангура",
+      "Даниел Младенов",
+      "Гара Дембеле"
+    ],
+    "date": "26 август 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Гент",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Рандал Асофейфа",
+      "Жоаозиньо",
+      "Марко Шулер",
+      "Гара Дембеле",
+      "Сержиньо Грийн"
+    ],
+    "date": "16 септември 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Спортинг (Лисабон)",
+    "levski_goals": 0,
+    "opponent_goals": 5,
+    "result": "loss",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "date": "30 септември 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Лил",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "date": "21 октомври 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Лил",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Гара Дембеле",
+      "Туло Де Мело",
+      "Владимир Гаджев",
+      "Иво Иванов"
+    ],
+    "date": "04 ноември 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Гент",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "date": "01 декември 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Спортинг (Лисабон)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Даниел Младенов"
+    ],
+    "date": "16 декември 2010 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Иван Цветков"
+    ],
+    "date": "08 август 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Илиян Капитанов",
+      "Ермес Паломино",
+      "Иван Цветков",
+      "Димитър Петков"
+    ],
+    "date": "13 август 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Шюрд  Арс"
+    ],
+    "date": "21 август 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Владимир Гаджев",
+      "Шюрд  Арс",
+      "Симеон Райков"
+    ],
+    "date": "27 август 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Миньор (Перник)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Даниел Младенов"
+    ],
+    "date": "11 септември 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Дарко Тасевски",
+      "Симеон Райков",
+      "Деян Джерманович",
+      "Максим Жос",
+      "Владимир Гаджев"
+    ],
+    "date": "17 септември 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Мирослав Иванов",
+      "Владимир Гаджев",
+      "Емил Гъргоров"
+    ],
+    "date": "25 септември 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Христо Йовов",
+      "Шюрд  Арс",
+      "Христо Йовов",
+      "Дарко Тасевски"
+    ],
+    "date": "02 октомври 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черноморец Бургас (Бургас)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "date": "16 октомври 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Калиакра (Каварна)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Тони Калво",
+      "Четин Садула",
+      "Даниел Младенов",
+      "Владимир Гаджев",
+      "Якуб Хронец"
+    ],
+    "date": "21 октомври 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "date": "28 октомври 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": true,
+    "scorers": [
+      "Иван Цветков",
+      "Базиле де Карвальо",
+      "Йордан Милиев",
+      "Шюрд  Арс",
+      "Шюрд  Арс"
+    ],
+    "date": "06 ноември 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Костов",
+    "hosted": false,
+    "scorers": [
+      "Христо Йовов",
+      "Христо Йовов",
+      "Владислав Златинов"
+    ],
+    "date": "13 ноември 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Видима-Раковски (Севлиево)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Костов",
+    "hosted": true,
+    "scorers": [
+      "Дарко Тасевски",
+      "Георги Какалов",
+      "Шюрд  Арс"
+    ],
+    "date": "19 ноември 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Светкавица 1922 (Търговище)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Костов",
+    "hosted": false,
+    "scorers": [
+      "Даниел Димов"
+    ],
+    "date": "27 ноември 2011 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Костов",
+    "hosted": false,
+    "scorers": [
+      "Иван Цветков",
+      "Дарко Тасевски",
+      "Тони Калво"
+    ],
+    "date": "21 март 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Костов",
+    "hosted": true,
+    "scorers": [
+      "Иван Цветков",
+      "Кристовао Рамос",
+      "Дончо Атанасов"
+    ],
+    "date": "04 март 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Костов",
+    "hosted": false,
+    "scorers": [
+      "Жозе Жуниор",
+      "Иван Цветков",
+      "Иван Цветков"
+    ],
+    "date": "11 март 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Костов",
+    "hosted": false,
+    "scorers": [
+      "Орлин Старокин",
+      "Владимир Гаджев"
+    ],
+    "date": "18 март 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Миньор (Перник)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Николай Костов",
+    "hosted": true,
+    "date": "25 март 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "date": "29 март 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "date": "02 април 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Викторио Павлов",
+    "hosted": false,
+    "scorers": [
+      "Даниел Пеев",
+      "Жозе Жуниор"
+    ],
+    "date": "08 април 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черноморец Бургас (Бургас)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Яник Боли",
+      "Тони Калво",
+      "Христо Йовов",
+      "Аатиф Шаешу"
+    ],
+    "date": "18 април 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Калиакра (Каварна)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Тони Калво",
+      "Герасим Заков",
+      "Христо Йовов",
+      "Христо Йовов",
+      "Тони Калво"
+    ],
+    "date": "23 април 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Кристовао Рамос"
+    ],
+    "date": "29 април 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Христо Йовов",
+      "Симеон Райков",
+      "Базиле де Карвальо",
+      "Йордан Тодоров",
+      "Христо Златински (д)"
+    ],
+    "date": "06 май 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Иван Цветков",
+      "Жозе Жуниор"
+    ],
+    "date": "11 май 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Видима-Раковски (Севлиево)",
+    "levski_goals": 6,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": false,
+    "scorers": [
+      "Жозе Жуниор",
+      "Жозе Жуниор",
+      "Тони Калво",
+      "Даниел Димов",
+      "Ангел Русев (д)",
+      "Жозе Жуниор",
+      "Симеон Райков"
+    ],
+    "date": "19 май 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Светкавица 1922 (Търговище)",
+    "levski_goals": 7,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Ясен Петров",
+    "hosted": true,
+    "scorers": [
+      "Владимир Гаджев",
+      "Тони Калво",
+      "Иван Цветков",
+      "Кристовао Рамос",
+      "Сюлейман Диамутен",
+      "Иван Цветков",
+      "Иван Цветков"
+    ],
+    "date": "23 май 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Банско",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Костов",
+    "hosted": false,
+    "scorers": [
+      "Иван Цветков"
+    ],
+    "date": "23 ноември 2011 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Етър 1924 (Велико Търново)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Костов",
+    "hosted": false,
+    "scorers": [
+      "Иван Цветков",
+      "Даниел Димов",
+      "Иван Цветков"
+    ],
+    "date": "03 декември 2011 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Николай Костов",
+    "hosted": false,
+    "scorers": [
+      "Тони Калво",
+      "Михаил Венков",
+      "Здравко Лазаров"
+    ],
+    "date": "15 март 2012 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Спартак (Търнава)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Ладислав Томачек (д)",
+      "Владимир Гаджев",
+      "Шюрд  Арс"
+    ],
+    "date": "28 юли 2011 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Черноморец Бургас (Бургас)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Базиле де Карвальо"
+    ],
+    "date": "11 август 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Симеон Райков",
+      "Симеон Райков",
+      "Артур Енрике",
+      "Станислав Ангелов"
+    ],
+    "date": "19 август 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Базиле де Карвальо",
+      "Дъстли Мюлдер"
+    ],
+    "date": "25 август 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Кристовао Рамос",
+      "Базиле де Карвальо",
+      "Марсиньо",
+      "Базиле де Карвальо"
+    ],
+    "date": "31 август 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Давид Каядо (д)",
+      "Марсиньо",
+      "Базиле де Карвальо"
+    ],
+    "date": "16 септември 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Пирин (Гоце Делчев)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Базиле де Карвальо",
+      "Илиян Йорданов"
+    ],
+    "date": "22 септември 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Базиле де Карвальо",
+      "Антонио Павлов"
+    ],
+    "date": "29 септември 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Базиле де Карвальо",
+      "Георги Миланов",
+      "Симеон Райков"
+    ],
+    "date": "05 октомври 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "date": "20 октомври 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Ромен Ели",
+      "Жоао Силва",
+      "Рангел Абушев"
+    ],
+    "date": "27 октомври 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Миньор (Перник)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Сабри Бумелаха (аг)",
+      "Базиле де Карвальо",
+      "Владимир Гаджев",
+      "Кристовао Рамос"
+    ],
+    "date": "04 ноември 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Марсиньо",
+      "Дъстли Мюлдер"
+    ],
+    "date": "10 ноември 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Станислав Генчев",
+      "Илиян Йорданов",
+      "Станислав Генчев"
+    ],
+    "date": "18 ноември 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Етър 1924 (Велико Търново)",
+    "levski_goals": 7,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Базиле де Карвальо",
+      "Базиле де Карвальо",
+      "Базиле де Карвальо",
+      "Антонио Вутов",
+      "Базиле де Карвальо",
+      "Ивайло Русев (аг)",
+      "Нерилон Нери",
+      "Илиян Йорданов"
+    ],
+    "date": "28 ноември 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Даниел Димов",
+      "Здравко Лазаров",
+      "Жоао Силва",
+      "Жоао Силва"
+    ],
+    "date": "08 декември 2012 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черноморец Бургас (Бургас)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "scorers": [
+      "Базиле де Карвальо",
+      "Базиле де Карвальо"
+    ],
+    "date": "03 март 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "date": "09 март 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "date": "17 март 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Георги Божилов",
+      "Рене Михелич"
+    ],
+    "date": "30 март 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Илиян Йорданов",
+      "Базиле де Карвальо"
+    ],
+    "date": "07 април 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Пирин (Гоце Делчев)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Ромен Ели",
+      "Любомир Витанов (д)"
+    ],
+    "date": "10 април 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Базиле де Карвальо",
+      "Крум Бибишков",
+      "Жоао Силва"
+    ],
+    "date": "13 април 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "scorers": [
+      "Гари Родригес",
+      "Христо Йовов",
+      "Илия Миланов",
+      "Жоао Силва"
+    ],
+    "date": "20 април 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "scorers": [
+      "Христо Йовов",
+      "Марсиньо",
+      "Жоао Силва"
+    ],
+    "date": "27 април 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "scorers": [
+      "Кристовао Рамос"
+    ],
+    "date": "02 май 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Миньор (Перник)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Жоао Силва",
+      "Томислав Павлов",
+      "Гари Родригес"
+    ],
+    "date": "06 май 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "scorers": [
+      "Андрей Атанасов",
+      "Базиле де Карвальо",
+      "Гари Родригес",
+      "Жоао Силва"
+    ],
+    "date": "10 май 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Мичел Бургзорг (аг)"
+    ],
+    "date": "18 май 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Базиле де Карвальо",
+      "Димитър Везалов"
+    ],
+    "date": "25 май 2013 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Пирин 2002 (Разлог)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Кристовао Рамос",
+      "Жоао Силва",
+      "Христо Йовов"
+    ],
+    "date": "31 октомври 2012 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Пирин 2002 (Разлог)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Жоао Силва"
+    ],
+    "date": "24 ноември 2012 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Дъстли Мюлдер",
+      "Дъстли Мюлдер",
+      "Жоао Силва",
+      "Жоао Силва"
+    ],
+    "date": "02 декември 2012 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "date": "15 декември 2012 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Гари Родригес"
+    ],
+    "date": "13 март 2013 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Дъстли Мюлдер",
+      "Георги Миланов",
+      "Исмаил Иса"
+    ],
+    "date": "03 април 2013 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Гари Родригес",
+      "Гари Родригес",
+      "Димитър Илиев",
+      "Стефан Велев"
+    ],
+    "date": "17 април 2013 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "24 април 2013 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Сараево",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Илиан Илиев",
+    "hosted": true,
+    "scorers": [
+      "Симеон Райков"
+    ],
+    "date": "19 юли 2012 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Сараево",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Илиан Илиев",
+    "hosted": false,
+    "scorers": [
+      "Саид Хюсеинович",
+      "Асмир Сулич",
+      "Базиле де Карвальо",
+      "Саид Хюсеинович"
+    ],
+    "date": "26 юли 2012 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Викторио Павлов",
+    "hosted": false,
+    "scorers": [
+      "Гари Родригес",
+      "Тодор Неделев",
+      "Тодор Неделев"
+    ],
+    "date": "21 юли 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Славиша Йоканович",
+    "hosted": true,
+    "scorers": [
+      "Аласан Н'Диайе",
+      "Цветан Генков",
+      "Мартин Камбуров"
+    ],
+    "date": "28 юли 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Пирин (Гоце Делчев)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Йоканович",
+    "hosted": false,
+    "scorers": [
+      "Цветан Генков",
+      "Гари Родригес"
+    ],
+    "date": "04 август 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Славиша Йоканович",
+    "hosted": true,
+    "date": "11 август 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Славиша Йоканович",
+    "hosted": false,
+    "scorers": [
+      "Гари Родригес",
+      "Вилмар Хордан Хил"
+    ],
+    "date": "18 август 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Славиша Йоканович",
+    "hosted": true,
+    "scorers": [
+      "Гари Родригес",
+      "Симеон Райков"
+    ],
+    "date": "25 август 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Любимец 2007 (Любимец)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Йоканович",
+    "hosted": false,
+    "scorers": [
+      "Цветан Генков",
+      "Антонио Вутов"
+    ],
+    "date": "01 септември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Славиша Йоканович",
+    "hosted": true,
+    "date": "15 септември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Черноморец Бургас (Бургас)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Славиша Йоканович",
+    "hosted": false,
+    "scorers": [
+      "Мирослав Иванов",
+      "Карлос Фонсека",
+      "Оливейра (аг)",
+      "Гари Родригес"
+    ],
+    "date": "21 септември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Нефтохимик 1962 (Бургас)",
+    "levski_goals": 6,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Йоканович",
+    "hosted": true,
+    "scorers": [
+      "Даниел Димов",
+      "Мирослав Иванов",
+      "Пламен Димов",
+      "Даниел Димов",
+      "Владимир Гаджев",
+      "Владимир Гаджев"
+    ],
+    "date": "25 септември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Йоканович",
+    "hosted": false,
+    "scorers": [
+      "Ларсен Туре"
+    ],
+    "date": "28 септември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Славиша Йоканович",
+    "hosted": true,
+    "date": "04 октомври 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 0,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "date": "19 октомври 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": true,
+    "scorers": [
+      "Гари Родригес"
+    ],
+    "date": "26 октомври 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "scorers": [
+      "Владимир Гаджев",
+      "Дани Кики",
+      "Гари Родригес",
+      "Стелиос Илиадис",
+      "Цветан Генков"
+    ],
+    "date": "31 октомври 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Пирин (Гоце Делчев)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": true,
+    "scorers": [
+      "Димитър Макриев",
+      "Гари Родригес",
+      "Димитър Макриев",
+      "Костадин Башов (д)",
+      "Илиян Йорданов"
+    ],
+    "date": "03 ноември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "date": "09 ноември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": true,
+    "scorers": [
+      "Даниел Димов",
+      "Орлин Старокин",
+      "Кевин Бру",
+      "Вилмар Хордан Хил",
+      "Орлин Старокин"
+    ],
+    "date": "23 ноември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "scorers": [
+      "Георги Илиев",
+      "Бакари",
+      "Ларсен Туре"
+    ],
+    "date": "30 ноември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Любимец 2007 (Любимец)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": true,
+    "scorers": [
+      "Славчо Шоколаров (аг)",
+      "Гари Родригес",
+      "Антонио Вутов"
+    ],
+    "date": "04 декември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "scorers": [
+      "Ларсен Туре"
+    ],
+    "date": "07 декември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Черноморец Бургас (Бургас)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": true,
+    "scorers": [
+      "Ларсен Туре",
+      "Димитър Макриев"
+    ],
+    "date": "12 декември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Нефтохимик 1962 (Бургас)",
+    "levski_goals": 6,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "scorers": [
+      "Орлин Старокин",
+      "Димитър Макриев",
+      "Димитър Макриев",
+      "Гари Родригес",
+      "Алехандро Перес",
+      "Гари Родригес",
+      "Илиян Йорданов"
+    ],
+    "date": "15 декември 2013 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Антони Здравков",
+    "hosted": true,
+    "scorers": [
+      "Атанас Курдов",
+      "Димитър Макриев",
+      "Кире Ристевски",
+      "Пламен Крумов"
+    ],
+    "date": "22 февруари 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "date": "28 февруари 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "date": "08 март 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "date": "15 март 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Даниел Димов",
+      "Димитър Макриев"
+    ],
+    "date": "22 март 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Валери Божинов",
+      "Владимир Гаджев"
+    ],
+    "date": "27 март 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Даниел Димов"
+    ],
+    "date": "06 април 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "date": "09 април 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Армандо Ваюши",
+      "Румен Руменов",
+      "Владислав Мисяк"
+    ],
+    "date": "12 април 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Омар Косоко",
+      "Радослав Цонев",
+      "Иван Стоянов",
+      "Иван Маркович"
+    ],
+    "date": "21 април 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "date": "26 април 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Цветан Генков",
+      "Валери Божинов",
+      "Мартин Камбуров"
+    ],
+    "date": "01 май 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Владимир Гаджев",
+      "Валери Домовчийски",
+      "Валери Божинов"
+    ],
+    "date": "07 май 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 2,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Валери Божинов",
+      "Себастиан Ернандес",
+      "Христо Златински",
+      "Жуниньо Кишада",
+      "Дани Абало",
+      "Валери Божинов"
+    ],
+    "date": "11 май 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Валери Божинов",
+      "Вилмар Хордан Хил"
+    ],
+    "date": "17 май 2014 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Пирин (Гоце Делчев)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Йоканович",
+    "hosted": true,
+    "scorers": [
+      "Антонио Вутов",
+      "Гари Родригес",
+      "Илиян Йорданов",
+      "Борислав Цонев"
+    ],
+    "date": "18 септември 2013 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Пирин (Гоце Делчев)",
+    "levski_goals": 5,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "scorers": [
+      "Орлин Старокин",
+      "Гари Родригес",
+      "Цветан Генков",
+      "Гари Родригес",
+      "Цветан Генков"
+    ],
+    "date": "12 октомври 2013 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "date": "16 ноември 2013 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Антони Здравков",
+    "hosted": true,
+    "scorers": [
+      "Феребори Доре",
+      "Адам Стаховяк (аг)",
+      "Дъстли Мюлдер",
+      "Валери Божинов"
+    ],
+    "date": "12 март 2014 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Антони Здравков",
+    "hosted": false,
+    "date": "19 март 2014 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Иртиш (Павлодар)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "date": "04 юли 2013 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Иртиш (Павлодар)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "11 юли 2013 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Хосе Мурсия",
+    "hosted": true,
+    "scorers": [
+      "Благой Наков",
+      "Валери Домовчийски"
+    ],
+    "date": "19 юли 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Хосе Мурсия",
+    "hosted": false,
+    "date": "27 юли 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Хосе Мурсия",
+    "hosted": true,
+    "scorers": [
+      "Роман Прохазка"
+    ],
+    "date": "02 август 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Жуниор Мапуку",
+      "Жуниор Мапуку",
+      "Валери Домовчийски"
+    ],
+    "date": "10 август 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Цветелин Чунчуков",
+      "Владимир Гаджев",
+      "Луис Педро"
+    ],
+    "date": "17 август 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 0,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "date": "24 август 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Валери Божинов"
+    ],
+    "date": "29 август 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Роман Прохазка",
+      "Антонио Салас"
+    ],
+    "date": "14 септември 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Хасково 2009 (Хасково)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Луис Педро",
+      "Валери Домовчийски",
+      "Владимир Гаджев",
+      "Антонио Салас",
+      "Емил Ангелов (д)"
+    ],
+    "date": "20 септември 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Мигел Бедоя",
+      "Космин Моци (д)",
+      "Георги Сърмов",
+      "Мигел Бедоя",
+      "Вандерсон"
+    ],
+    "date": "27 септември 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Марек 2010 (Дупница)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Златко Бонев",
+      "Владимир Гаджев",
+      "Мирослав Иванов"
+    ],
+    "date": "04 октомври 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Мигел Бедоя",
+      "Мартин Камбуров"
+    ],
+    "date": "18 октомври 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА (София)",
+    "levski_goals": 0,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "date": "25 октомври 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Антонио Салас"
+    ],
+    "date": "02 ноември 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "date": "07 ноември 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Роман Прохазка",
+      "Георги Сърмов",
+      "Мигел Бедоя"
+    ],
+    "date": "23 ноември 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Кристиян Малинов",
+      "Валери Домовчийски",
+      "Антонио Салас",
+      "Кирил Десподов"
+    ],
+    "date": "29 ноември 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "date": "06 декември 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Жереми Манзоро",
+      "Валери Домовчийски",
+      "Жереми Манзоро",
+      "Жереми Манзоро"
+    ],
+    "date": "13 декември 2014 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Хасково 2009 (Хасково)",
+    "levski_goals": 8,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Валери Домовчийски",
+      "Антонио Салас",
+      "Валери Домовчийски",
+      "Мигел Бедоя",
+      "Божидар Краев",
+      "Емил Нину",
+      "Антонио Салас",
+      "Лукаш Гикевич"
+    ],
+    "date": "27 февруари 2015 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "08 март 2015 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Марек 2010 (Дупница)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Антонио Салас",
+      "Владимир Гаджев",
+      "Владимир Гаджев",
+      "Либан Абди"
+    ],
+    "date": "14 март 2015 година",
+    "tournament": "\"А\" Футболна група - първи етап"
+  },
+  {
+    "opponent_name": "Хасково 2009 (Хасково)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Димитър Алексиев",
+      "Антонио Салас"
+    ],
+    "date": "20 март 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 5,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Либан Абди",
+      "Петър Златинов",
+      "Божидар Краев",
+      "Валери Домовчийски",
+      "Симеон Райков",
+      "Мамуту Кулибали (аг)",
+      "Борислав Цонев"
+    ],
+    "date": "03 април 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "11 април 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 5,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Валери Домовчийски",
+      "Роман Прохазка",
+      "Антонио Салас",
+      "Антонио Салас",
+      "Либан Абди",
+      "Антонио Салас"
+    ],
+    "date": "17 април 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Марек 2010 (Дупница)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Лукаш Гикевич",
+      "Димитър Димитров",
+      "Луис Педро",
+      "Борислав Цонев"
+    ],
+    "date": "25 април 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Хасково 2009 (Хасково)",
+    "levski_goals": 5,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Мигел Бедоя",
+      "Божидар Краев",
+      "Антонио Салас",
+      "Мигел Бедоя",
+      "Мики Орачев"
+    ],
+    "date": "04 май 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Валери Домовчийски",
+      "Мигел Бедоя"
+    ],
+    "date": "09 май 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Димитър Пиргов",
+      "Радослав Цонев",
+      "Петър Атанасов",
+      "Жереми Манзоро",
+      "Радослав Цонев"
+    ],
+    "date": "16 май 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Владимир Гаджев"
+    ],
+    "date": "22 май 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Марек 2010 (Дупница)",
+    "levski_goals": 6,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Божидар Краев",
+      "Божидар Краев",
+      "Борислав Цонев",
+      "Божидар Краев",
+      "Антонио Салас",
+      "Антонио Салас"
+    ],
+    "date": "26 май 2015 година",
+    "tournament": "\"А\" Футболна група - втори етап"
+  },
+  {
+    "opponent_name": "Спартак 1918 (Варна)",
+    "levski_goals": 7,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "scorers": [
+      "Мирослав Иванов",
+      "Радослав Цонев",
+      "Божидар Краев",
+      "Божидар Краев",
+      "Владислав Мисяк",
+      "Валери Домовчийски",
+      "Божидар Краев",
+      "Диян Малчев"
+    ],
+    "date": "23 септември 2014 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Иванов",
+    "hosted": false,
+    "date": "29 октомври 2014 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Иванов",
+    "hosted": true,
+    "scorers": [
+      "Антонио Салас",
+      "Аймен Белаид",
+      "Валери Домовчийски",
+      "Мигел Бедоя"
+    ],
+    "date": "03 декември 2014 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Хасково 2009 (Хасково)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Валери Домовчийски",
+      "Валери Домовчийски",
+      "Тихомир Трифонов (аг)"
+    ],
+    "date": "21 февруари 2015 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Хасково 2009 (Хасково)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Лукаш Гикевич",
+      "Станислав Маламов"
+    ],
+    "date": "03 март 2015 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "08 април 2015 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Антонио Салас"
+    ],
+    "date": "29 април 2015 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Антонио Салас",
+      "Бакари",
+      "Матиас Курьор"
+    ],
+    "date": "30 май 2015 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Георги Костадинов",
+      "Мариян Огнянов",
+      "Даниел Генов"
+    ],
+    "date": "18 юли 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "01 август 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Борислав Цонев"
+    ],
+    "date": "08 август 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Явор Вълчинов",
+    "hosted": true,
+    "scorers": [
+      "Божидар Краев",
+      "Божидар Краев"
+    ],
+    "date": "15 август 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "23 август 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Пирин (Благоевград)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "date": "30 август 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Омар Диаби"
+    ],
+    "date": "13 септември 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Владимир Гаджев",
+      "Роман Прохазка"
+    ],
+    "date": "20 септември 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Георги Костадинов"
+    ],
+    "date": "28 септември 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Живко Миланов",
+      "Клаудиу Кешерю"
+    ],
+    "date": "18 октомври 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Максимилиан Карнер"
+    ],
+    "date": "23 октомври 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Роман Прохазка",
+      "Божидар Краев"
+    ],
+    "date": "02 ноември 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Мигел Бедоя"
+    ],
+    "date": "08 ноември 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Пирин (Благоевград)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "22 ноември 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Роман Прохазка",
+      "Джереми де Нойер"
+    ],
+    "date": "29 ноември 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "02 декември 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "05 декември 2015 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Вандерсон",
+      "Лукас Саша",
+      "Роман Прохазка"
+    ],
+    "date": "21 февруари 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Георги Костадинов",
+      "Мигел Бедоя"
+    ],
+    "date": "27 февруари 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "date": "02 март 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Ванчо Траянов",
+      "Венцислав Христов"
+    ],
+    "date": "05 март 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Пирин (Благоевград)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Стилиян Николов",
+      "Мигел Бедоя",
+      "Венцислав Христов",
+      "Франсис Нар"
+    ],
+    "date": "13 март 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "19 март 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Венцислав Христов"
+    ],
+    "date": "02 април 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Венцислав Христов",
+      "Роман Прохазка",
+      "Роман Прохазка"
+    ],
+    "date": "09 април 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "date": "23 април 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 5,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Божидар Краев",
+      "Даниел Георгиев",
+      "Венцислав Христов",
+      "Венцислав Христов",
+      "Венцислав Христов",
+      "Мигел Бедоя"
+    ],
+    "date": "28 април 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Мигел Бедоя"
+    ],
+    "date": "06 май 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": true,
+    "scorers": [
+      "Венцислав Христов",
+      "Мигел Бедоя",
+      "Веселин Минев",
+      "Мартин Камбуров",
+      "Бирсент Карагарен"
+    ],
+    "date": "10 май 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Пирин (Благоевград)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Александър Александров"
+    ],
+    "date": "15 май 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "date": "22 май 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Георги Костадинов",
+      "Елиаш",
+      "Иво Иванов"
+    ],
+    "date": "28 май 2016 година",
+    "tournament": "\"А\" Футболна група"
+  },
+  {
+    "opponent_name": "Несебър",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "scorers": [
+      "Божидар Краев",
+      "Мигел Бедоя",
+      "Божидар Краев",
+      "Николай Костов"
+    ],
+    "date": "28 октомври 2015 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Литекс (Ловеч)",
+    "levski_goals": 0,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Стойчо Стоев",
+    "hosted": false,
+    "date": "08 декември 2015 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Люпко Петрович",
+    "hosted": true,
+    "date": "31 юли 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Люпко Петрович",
+    "hosted": false,
+    "scorers": [
+      "Веселин Марчев",
+      "Франсис Нар",
+      "Бабатунде Адениджи",
+      "Мартин Камбуров (д)"
+    ],
+    "date": "07 август 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Люпко Петрович",
+    "hosted": true,
+    "scorers": [
+      "Божидар Краев"
+    ],
+    "date": "13 август 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Люпко Петрович",
+    "hosted": false,
+    "scorers": [
+      "Антонио Салас",
+      "Бабатунде Адениджи",
+      "Георги Костадинов",
+      "Божидар Краев"
+    ],
+    "date": "21 август 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Верея (Стара Загора)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Люпко Петрович",
+    "hosted": true,
+    "scorers": [
+      "Франсис Нар",
+      "Божидар Краев",
+      "Илиас Хасани (аг)",
+      "Антонио Салас"
+    ],
+    "date": "28 август 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Нефтохимик 1962 (Бургас)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Люпко Петрович",
+    "hosted": false,
+    "scorers": [
+      "Роман Прохазка",
+      "Иван Вълчанов",
+      "Роман Прохазка"
+    ],
+    "date": "10 септември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Пирин (Благоевград)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Люпко Петрович",
+    "hosted": true,
+    "scorers": [
+      "Димитър Пиргов",
+      "Бабатунде Адениджи"
+    ],
+    "date": "17 септември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив (Горна Оряховица)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Люпко Петрович",
+    "hosted": false,
+    "scorers": [
+      "Мартин Кавдански (аг)"
+    ],
+    "date": "26 септември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Дунав 2010 (Русе)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Люпко Петрович",
+    "hosted": true,
+    "scorers": [
+      "Георги Костадинов",
+      "Георги Костадинов"
+    ],
+    "date": "02 октомври 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Люпко Петрович",
+    "hosted": false,
+    "scorers": [
+      "Франсис Нар",
+      "Преслав Йорданов (д)"
+    ],
+    "date": "15 октомври 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Антонио Салас",
+      "Георги Костадинов"
+    ],
+    "date": "22 октомври 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Жоао Пауло",
+      "Роман Прохазка"
+    ],
+    "date": "30 октомври 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Роман Прохазка"
+    ],
+    "date": "04 ноември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Божидар Краев",
+      "Костадин Дяков",
+      "Димитър Пиргов",
+      "Илиян Мицански"
+    ],
+    "date": "20 ноември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Ясин Ел Харуби (аг)",
+      "Веселин Марчев",
+      "Мартин Камбуров (д)"
+    ],
+    "date": "26 ноември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Бабатунде Адениджи",
+      "Вандерсон",
+      "Марселиньо"
+    ],
+    "date": "30 ноември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Мехди Бурабия"
+    ],
+    "date": "03 декември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Верея (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Антонио Салас"
+    ],
+    "date": "10 декември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Нефтохимик 1962 (Бургас)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Бабатунде Адениджи"
+    ],
+    "date": "14 декември 2016 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Пирин (Благоевград)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "date": "18 февруари 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив (Горна Оряховица)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Бабатунде Адениджи",
+      "Рахави Кифуети"
+    ],
+    "date": "25 февруари 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Дунав 2010 (Русе)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Елин Топузаков",
+    "hosted": false,
+    "scorers": [
+      "Бирсент Карагарен",
+      "Антон Огнянов",
+      "Мирослав Будинов",
+      "Роман Прохазка"
+    ],
+    "date": "28 февруари 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "scorers": [
+      "Арсенио Нунеш",
+      "Роман Прохазка",
+      "Давид Яблонски"
+    ],
+    "date": "04 март 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "12 март 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Роман Прохазка",
+      "Бабатунде Адениджи"
+    ],
+    "date": "19 март 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "01 април 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 5,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Антонио Салас",
+      "Божидар Краев",
+      "Божидар Краев",
+      "Божидар Краев",
+      "Божидар Краев"
+    ],
+    "date": "09 април 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "14 април 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Дунав 2010 (Русе)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Мирослав Будинов (аг)",
+      "Самир Аясс"
+    ],
+    "date": "21 април 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 0,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "29 април 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "scorers": [
+      "Амаду Сукуна"
+    ],
+    "date": "07 май 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "scorers": [
+      "Мартин Камбуров",
+      "Мехди Бурабия",
+      "Стефан Йевтоски"
+    ],
+    "date": "12 май 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Марселиньо",
+      "Вандерсон",
+      "Давид Яблонски",
+      "Вандерсон"
+    ],
+    "date": "16 май 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Дунав 2010 (Русе)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "scorers": [
+      "Божидар Краев"
+    ],
+    "date": "21 май 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 0,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "28 май 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Мартин Костадинов",
+      "Божидар Краев",
+      "Румен Касабов",
+      "Роман Прохазка"
+    ],
+    "date": "31 май 2017 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Царско село 2015 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Люпко Петрович",
+    "hosted": false,
+    "scorers": [
+      "Бабатунде Адениджи",
+      "Хеан Деса"
+    ],
+    "date": "22 септември 2016 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Елин Топузаков",
+    "hosted": true,
+    "scorers": [
+      "Александър Цветков",
+      "Бакари",
+      "Бабатунде Адениджи",
+      "Димитър Пиргов",
+      "Александър Цветков"
+    ],
+    "date": "26 октомври 2016 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Марибор",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Люпко Петрович",
+    "hosted": false,
+    "date": "14 юли 2016 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Марибор",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Люпко Петрович",
+    "hosted": true,
+    "scorers": [
+      "Франсис Нар",
+      "Таварес",
+      "Таварес"
+    ],
+    "date": "21 юли 2016 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "date": "06 септември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "23 юли 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Витоша (Бистрица)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Антонио Вутов",
+      "Серджиу Буш"
+    ],
+    "date": "30 юли 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Верея (Стара Загора)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Асен Букарев",
+    "hosted": false,
+    "date": "05 август 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Дунав 2010 (Русе)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Давид Яблонски",
+      "Серджиу Буш"
+    ],
+    "date": "13 август 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Пирин (Благоевград)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Жуниор Мапуку",
+      "Жуниор Мапуку",
+      "Жуниор Мапуку"
+    ],
+    "date": "18 август 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Жорди Гомес",
+      "Жуниор Мапуку",
+      "Жорди Гомес",
+      "Серджиу Буш"
+    ],
+    "date": "26 август 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Давид Яблонски",
+      "Тодор Неделев",
+      "Лъчезар Балтанов"
+    ],
+    "date": "10 септември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Септември (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Давид Яблонски",
+      "Габриел Обертан"
+    ],
+    "date": "15 септември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "date": "25 септември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Георги Илиев",
+      "Давид Яблонски"
+    ],
+    "date": "01 октомври 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Етър ВТ (Велико Търново)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Давид Яблонски"
+    ],
+    "date": "15 октомври 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Давид Яблонски",
+      "Тиаго Родригеш",
+      "Тиаго Родригеш",
+      "Роман Прохазка"
+    ],
+    "date": "21 октомври 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "date": "29 октомври 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Жорди Гомес"
+    ],
+    "date": "04 ноември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Витоша (Бистрица)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "date": "19 ноември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Верея (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Давид Яблонски"
+    ],
+    "date": "25 ноември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Дунав 2010 (Русе)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Васил Панайотов",
+      "Васил Панайотов",
+      "Жуниор Мапуку",
+      "Серджиу Буш"
+    ],
+    "date": "29 ноември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Пирин (Благоевград)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Роман Прохазка",
+      "Жуниор Мапуку",
+      "Васил Панайотов"
+    ],
+    "date": "02 декември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Серджиу Буш",
+      "Андреа Христов"
+    ],
+    "date": "09 декември 2017 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Пламен Димов (аг)"
+    ],
+    "date": "18 февруари 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Септември (София)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Станислав Костов",
+      "Станислав Костов",
+      "Габриел Обертан",
+      "Антони Иванов (д)",
+      "Габриел Обертан"
+    ],
+    "date": "24 февруари 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "date": "03 март 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Антонио Вутов",
+      "Радослав Василев",
+      "Паулиньо",
+      "Давид Яблонски",
+      "Радослав Василев"
+    ],
+    "date": "07 март 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Етър ВТ (Велико Търново)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Велко Батрович",
+      "Серджиу Буш",
+      "Филипе Насименто"
+    ],
+    "date": "11 март 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "date": "18 март 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Педро Еуженио",
+      "Роман Прохазка",
+      "Камен Хаджиев",
+      "Серджиу Буш"
+    ],
+    "date": "01 април 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "date": "06 април 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "date": "14 април 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Фернандо Каранга (д)",
+      "Енрике",
+      "Иван Горанов",
+      "Паулиньо"
+    ],
+    "date": "18 април 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Верея (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Холмар Ейолфсон",
+      "Роман Прохазка"
+    ],
+    "date": "21 април 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Давид Яблонски",
+      "Жорди Гомес",
+      "Роман Прохазка",
+      "Паулиньо"
+    ],
+    "date": "29 април 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Жоао Пауло",
+      "Стивън Петков",
+      "Паулиньо",
+      "Ривалдиньо",
+      "Паулиньо"
+    ],
+    "date": "04 май 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Клаудиу Кешерю (д)",
+      "Роман Прохазка",
+      "Аймен Белаид",
+      "Йерсон Кабрал"
+    ],
+    "date": "12 май 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 2,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Енрике",
+      "Паулиньо",
+      "Кристиян Малинов",
+      "Станислав Костов",
+      "Рубен Пинто"
+    ],
+    "date": "15 май 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Верея (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Паулиньо",
+      "Паулиньо"
+    ],
+    "date": "20 май 2018 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "стадион \"Георги Аспарухов\" в София",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Габриел Обертан",
+      "Серджиу Буш",
+      "Мехди Фенуш",
+      "Васил Панайотов",
+      "Иван Горанов"
+    ],
+    "date": "24 май 2018 година",
+    "tournament": "Бараж за Лига Европа"
+  },
+  {
+    "opponent_name": "Ботев (Гълъбово)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Антонио Вутов"
+    ],
+    "date": "19 септември 2017 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Даниел Георгиев (аг)"
+    ],
+    "date": "25 октомври 2017 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Дунав 2010 (Русе)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Жуниор Мапуку",
+      "Йерсон Кабрал"
+    ],
+    "date": "15 декември 2017 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Серджиу Буш",
+      "Серджиу Буш"
+    ],
+    "date": "11 април 2018 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "scorers": [
+      "Жорди Гомес",
+      "Жан Карлос Бланко",
+      "Серджиу Буш",
+      "Роланд Алберг"
+    ],
+    "date": "25 април 2018 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Сутиеска (Никшич)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Жуниор Мапуку",
+      "Жуниор Мапуку",
+      "Роман Прохазка",
+      "Божо Маркович"
+    ],
+    "date": "29 юни 2017 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Сутиеска (Никшич)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "06 юли 2017 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Хайдук (Сплит)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Николай Митов",
+    "hosted": false,
+    "date": "13 юли 2017 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Хайдук (Сплит)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Николай Митов",
+    "hosted": true,
+    "scorers": [
+      "Серджиу Буш",
+      "Франк Охандза",
+      "Анте Ерцег"
+    ],
+    "date": "20 юли 2017 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Тодор Симов",
+    "hosted": false,
+    "scorers": [
+      "Илия Димитров"
+    ],
+    "date": "21 юли 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Тодор Симов",
+    "hosted": true,
+    "scorers": [
+      "Георги Илиев",
+      "Станислав Костов",
+      "Георги Божилов",
+      "Давиде Мариани"
+    ],
+    "date": "30 юли 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Станислав Костов",
+      "Йерсон Кабрал"
+    ],
+    "date": "05 август 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Дунав 2010 (Русе)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Божидар Васев (д)",
+      "Йерсон Кабрал",
+      "Холмар Ейолфсон"
+    ],
+    "date": "11 август 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Септември (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Давиде Мариани",
+      "Станислав Костов"
+    ],
+    "date": "19 август 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Етър ВТ (Велико Търново)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Йерсон Кабрал",
+      "Станислав Костов",
+      "Флорент Бояй"
+    ],
+    "date": "25 август 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Антони Белмонт"
+    ],
+    "date": "01 септември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "date": "16 септември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Витоша (Бистрица)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Давид Яблонски",
+      "Йерсон Кабрал",
+      "Паулиньо",
+      "Станислав Костов",
+      "Станислав Костов",
+      "Григор Долапчиев"
+    ],
+    "date": "21 септември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "В. Черняускас (аг)"
+    ],
+    "date": "29 септември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Станислав Костов",
+      "Станислав Костов"
+    ],
+    "date": "07 октомври 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Джоди Лукоки",
+      "Вандерсон",
+      "Станислав Костов"
+    ],
+    "date": "20 октомври 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Верея (Стара Загора)",
+    "levski_goals": 7,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Нуно Реиш",
+      "Станислав Костов",
+      "Давиде Мариани",
+      "Станислав Костов",
+      "Давиде Мариани",
+      "Хали Тиам",
+      "Холмар Ейолфсон"
+    ],
+    "date": "26 октомври 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Станислав Костов",
+      "Антонио Вутов",
+      "Хали Тиам",
+      "Станислав Костов",
+      "Давиде Мариани"
+    ],
+    "date": "04 ноември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "date": "10 ноември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Давиде Мариани",
+      "Валери Божинов (д)",
+      "Валери Божинов",
+      "Валери Домовчийски"
+    ],
+    "date": "25 ноември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Дунав 2010 (Русе)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Небойша Милошевич",
+    "hosted": true,
+    "scorers": [
+      "Йерсон Кабрал",
+      "Йерсон Кабрал",
+      "Станислав Костов"
+    ],
+    "date": "01 декември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Септември (София)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Станислав Костов",
+      "Иван Стоянов",
+      "Йерсон Кабрал",
+      "Мирослав Будинов"
+    ],
+    "date": "05 декември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Етър ВТ (Велико Търново)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Велко Батрович",
+      "Иван Скерлев (аг)",
+      "Серджиу Буш"
+    ],
+    "date": "08 декември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Мартин Камбуров",
+      "Габриел Обертан",
+      "Александър Василев"
+    ],
+    "date": "15 декември 2018 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Георги Дерменджиев",
+    "hosted": true,
+    "scorers": [
+      "Анте Аралица",
+      "Давиде Мариани"
+    ],
+    "date": "17 февруари 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Витоша (Бистрица)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Дерменджиев",
+    "hosted": false,
+    "scorers": [
+      "Паулиньо",
+      "Станислав Костов"
+    ],
+    "date": "20 февруари 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Дерменджиев",
+    "hosted": false,
+    "scorers": [
+      "Стивън Перейра (аг)"
+    ],
+    "date": "24 февруари 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Дерменджиев",
+    "hosted": false,
+    "scorers": [
+      "Станислав Костов",
+      "Йерсон Кабрал",
+      "Давиде Мариани",
+      "Паулиньо"
+    ],
+    "date": "03 март 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Дерменджиев",
+    "hosted": true,
+    "date": "10 март 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Верея (Стара Загора)",
+    "levski_goals": 4,
+    "opponent_goals": 3,
+    "result": "win",
+    "coach": "Георги Дерменджиев",
+    "hosted": false,
+    "scorers": [
+      "Давиде Мариани",
+      "Нуно Реиш",
+      "Серджиу Буш",
+      "Станислав Костов",
+      "Орелиен Нжеитала",
+      "Валери Божинов",
+      "Денислав Станчев"
+    ],
+    "date": "16 март 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Георги Дерменджиев",
+    "hosted": true,
+    "scorers": [
+      "Давиде Мариани",
+      "Кристиан Димитров"
+    ],
+    "date": "31 март 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Дерменджиев",
+    "hosted": false,
+    "scorers": [
+      "Станислав Костов"
+    ],
+    "date": "07 април 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Дерменджиев",
+    "hosted": false,
+    "date": "14 април 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Георги Дерменджиев",
+    "hosted": false,
+    "date": "20 април 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Дерменджиев",
+    "hosted": true,
+    "scorers": [
+      "Станислав Костов",
+      "Карлос Охене",
+      "Педро Еуженио"
+    ],
+    "date": "26 април 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Станислав Костов",
+      "Тодор Неделев",
+      "Станислав Иванов",
+      "Валери Божинов"
+    ],
+    "date": "04 май 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 5,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "scorers": [
+      "Станислав Костов",
+      "Паулиньо",
+      "Давиде Мариани",
+      "Станислав Костов",
+      "Станислав Иванов",
+      "Дани Кики"
+    ],
+    "date": "12 май 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Космин Моци (д)",
+      "Живко Миланов"
+    ],
+    "date": "18 май 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "date": "21 май 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Рубен Бригидо",
+      "Мартин Камбуров",
+      "Валери Божинов",
+      "Мартин Камбуров"
+    ],
+    "date": "24 май 2019 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "стадион \"Георги Аспарухов\" в София",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "scorers": [
+      "Валери Божинов"
+    ],
+    "date": "28 май 2019 година",
+    "tournament": "Бараж за Лига Европа"
+  },
+  {
+    "opponent_name": "Атлетик (Куклен)",
+    "levski_goals": 6,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Атанас Кабов",
+      "Серджиу Буш",
+      "Станислав Иванов",
+      "Янко Гюзлев (аг)",
+      "Станислав Иванов",
+      "Филипе Насименто"
+    ],
+    "date": "25 септември 2018 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Вадуц",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Делио Роси",
+    "hosted": false,
+    "date": "11 юли 2018 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Вадуц",
+    "levski_goals": 3,
+    "opponent_goals": 2,
+    "result": "win",
+    "coach": "Делио Роси",
+    "hosted": true,
+    "scorers": [
+      "Мохамед Кулибали",
+      "Серджиу Буш",
+      "Аймен Белаид",
+      "Игор Тадич",
+      "Серджиу Буш",
+      "Йерсон Кабрал"
+    ],
+    "date": "17 юли 2018 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Дунав (Русе)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "scorers": [
+      "Давиде Мариани",
+      "Станислав Иванов",
+      "Ахмед Ахмедов",
+      "Давиде Мариани",
+      "Паулиньо"
+    ],
+    "date": "15 юли 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Етър ВТ (Велико Търново)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "date": "21 юли 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Давиде Мариани",
+      "Еберт",
+      "Давиде Мариани",
+      "Иван Горанов"
+    ],
+    "date": "29 юли 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Царско село 2015 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "scorers": [
+      "Найджъл Роберта",
+      "Станислав Иванов"
+    ],
+    "date": "05 август 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Педро Еуженио",
+      "Мартин Камбуров",
+      "Мартин Камбуров",
+      "Франко Мазурек"
+    ],
+    "date": "10 август 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Витоша (Бистрица)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "scorers": [
+      "Паулиньо",
+      "Паулиньо",
+      "Филипе Насименто",
+      "Найджъл Роберта"
+    ],
+    "date": "17 август 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Найджъл Роберта"
+    ],
+    "date": "24 август 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "scorers": [
+      "Станислав Иванов",
+      "Найджъл Роберта",
+      "Евандро",
+      "Раул Албентоса"
+    ],
+    "date": "01 септември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Станислав Иванов",
+      "Паулиньо",
+      "Найджъл Роберта"
+    ],
+    "date": "15 септември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "scorers": [
+      "Филипе Насименто",
+      "Станислав Иванов"
+    ],
+    "date": "21 септември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Холмар Ейолфсон",
+      "Найджъл Роберта",
+      "Даниел Генов",
+      "Паулиньо"
+    ],
+    "date": "28 септември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "date": "06 октомври 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Арда 1924 (Кърджали)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Хали Тиам",
+      "Станислав Иванов",
+      "Пламен Крумов"
+    ],
+    "date": "19 октомври 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Дунав (Русе)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Благой Макенджиев (аг)",
+      "Холмар Ейолфсон"
+    ],
+    "date": "31 октомври 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Етър ВТ (Велико Търново)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Холмар Ейолфсон",
+      "Паулиньо",
+      "Дени Алар"
+    ],
+    "date": "06 ноември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "date": "10 ноември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Царско село 2015 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Найджъл Роберта",
+      "Станислав Иванов"
+    ],
+    "date": "24 ноември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "scorers": [
+      "Мартин Камбуров",
+      "Найджъл Роберта"
+    ],
+    "date": "30 ноември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Витоша (Бистрица)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Паулиньо",
+      "Станислав Иванов"
+    ],
+    "date": "08 декември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "date": "15 декември 2019 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "date": "15 февруари 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "scorers": [
+      "Матиас Курьор",
+      "Стейн Спийрингс",
+      "Дени Алар",
+      "Мартин Минчев"
+    ],
+    "date": "22 февруари 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Ивайло Ем.Димитров",
+      "Найджъл Роберта",
+      "Ивайло Ем.Димитров"
+    ],
+    "date": "01 март 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "date": "08 март 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "date": "05 юни 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Арда 1924 (Кърджали)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Паулиньо",
+      "Радослав Василев",
+      "Стейн Спийрингс",
+      "Мартин Д.Петков"
+    ],
+    "date": "13 юни 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 3,
+    "opponent_goals": 3,
+    "result": "tie",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Янис Каргас",
+      "Иван Горанов",
+      "Хали Тиам",
+      "Греъм Кери (д)",
+      "Симеон Славчев",
+      "Али Соу"
+    ],
+    "date": "20 юни 2020 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Найджъл Роберта",
+      "Мартин Камбуров",
+      "Найджъл Роберта"
+    ],
+    "date": "28 юни 2020 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "scorers": [
+      "Станислав Иванов",
+      "Ивайло Димитров",
+      "Филип Кръстев"
+    ],
+    "date": "04 юли 2020 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "date": "08 юли 2020 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "scorers": [
+      "Насиру Мохамед",
+      "Доминик Малонга",
+      "Доминик Малонга"
+    ],
+    "date": "12 юли 2020 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Спартак 1918 (Варна)",
+    "levski_goals": 5,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "scorers": [
+      "Франко Мазурек",
+      "Дени Алар",
+      "Насиру Мохамед",
+      "Мартин Д.Петков",
+      "Мартин Д.Петков",
+      "Ивайло Русев"
+    ],
+    "date": "25 септември 2019 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Мартин Райнов"
+    ],
+    "date": "04 декември 2019 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "date": "09 юни 2020 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "date": "23 юни 2020 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Ружомберок",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "scorers": [
+      "Давиде Мариани",
+      "Паулиньо"
+    ],
+    "date": "11 юли 2019 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Ружомберок",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "scorers": [
+      "Давиде Мариани",
+      "Дени Алар"
+    ],
+    "date": "18 юли 2019 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "АЕК (Ларнака)",
+    "levski_goals": 0,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Петър Хубчев",
+    "hosted": false,
+    "date": "25 юли 2019 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "АЕК (Ларнака)",
+    "levski_goals": 0,
+    "opponent_goals": 4,
+    "result": "loss",
+    "coach": "Петър Хубчев",
+    "hosted": true,
+    "date": "01 август 2019 година",
+    "tournament": "Лига Европа"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "date": "10 август 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Арда 1924 (Кърджали)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Иван Коконов",
+      "Паулиньо"
+    ],
+    "date": "15 август 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Царско село 2015 (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "date": "23 август 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 4,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Стейн Спийрингс",
+      "Паулиньо",
+      "Стейн Спийрингс",
+      "Ивайло Найденов"
+    ],
+    "date": "29 август 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Етър ВТ (Велико Търново)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "scorers": [
+      "Живко Атанасов",
+      "Преслав Боруков",
+      "Борислав Цонев"
+    ],
+    "date": "13 септември 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА 1948 (София)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "scorers": [
+      "Насиру Мохамед",
+      "Борислав Цонев",
+      "Борислав Цонев"
+    ],
+    "date": "19 септември 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Атанас Илиев",
+      "Атанас Илиев",
+      "Борислав Цонев"
+    ],
+    "date": "26 септември 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "date": "03 октомври 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "date": "18 октомври 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Георги Тодоров",
+    "hosted": true,
+    "scorers": [
+      "Мартин Райнов",
+      "Матиас Курьор",
+      "Васил Панайотов"
+    ],
+    "date": "24 октомври 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Живко Миланов",
+    "hosted": false,
+    "date": "01 ноември 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Найджъл Роберта"
+    ],
+    "date": "02 декември 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "date": "18 декември 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Алиюн Фол",
+      "Паулиньо",
+      "Алиюн Фол"
+    ],
+    "date": "09 декември 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Арда 1924 (Кърджали)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Матеус Леони",
+      "Паулиньо",
+      "Иван Коконов"
+    ],
+    "date": "05 декември 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Царско село 2015 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Мартин Кавдански",
+      "Найджъл Роберта",
+      "Станислав Иванов",
+      "Реян Даскалов"
+    ],
+    "date": "12 декември 2020 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Монтана 1921 (Монтана)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Здравко Димитров",
+      "Стивън Петков"
+    ],
+    "date": "14 февруари 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Етър ВТ (Велико Търново)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "date": "21 февруари 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА 1948 (София)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "date": "28 февруари 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Атанас Илиев",
+      "Найджъл Роберта",
+      "Мартин Д.Петков",
+      "Атанас Илиев"
+    ],
+    "date": "07 март 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Костадин Ничев",
+      "Даниел Генов",
+      "Найджъл Роберта",
+      "Живко Атанасов",
+      "Найджъл Роберта"
+    ],
+    "date": "13 март 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Найджъл Роберта"
+    ],
+    "date": "21 март 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Живко Миланов",
+    "hosted": false,
+    "date": "11 април 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 0,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Живко Миланов",
+    "hosted": true,
+    "date": "18 април 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Живко Миланов",
+    "hosted": false,
+    "date": "21 април 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Живко Миланов",
+    "hosted": false,
+    "date": "25 април 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Царско село 2015 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Живко Миланов",
+    "hosted": false,
+    "scorers": [
+      "Марин Петков",
+      "Борислав Цонев"
+    ],
+    "date": "05 май 2021 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Живко Миланов",
+    "hosted": false,
+    "scorers": [
+      "Марин Петков"
+    ],
+    "date": "09 май 2021 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Живко Миланов",
+    "hosted": true,
+    "scorers": [
+      "Илиан Ил.Илиев",
+      "Начо Монсалве",
+      "Живко Атанасов"
+    ],
+    "date": "13 май 2021 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Царско село 2015 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Живко Миланов",
+    "hosted": true,
+    "scorers": [
+      "Андерсон Кордейро",
+      "Борислав Цонев"
+    ],
+    "date": "17 май 2021 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Живко Миланов",
+    "hosted": true,
+    "scorers": [
+      "Живко Атанасов",
+      "Емануел Току",
+      "Емануел Току"
+    ],
+    "date": "20 май 2021 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Живко Миланов",
+    "hosted": false,
+    "scorers": [
+      "Васил Панайотов",
+      "Радослав Цонев",
+      "Валери Божинов"
+    ],
+    "date": "23 май 2021 година",
+    "tournament": "Първа професионална лига - втори етап"
+  },
+  {
+    "opponent_name": "Партизан (Червен бряг)",
+    "levski_goals": 4,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Георги Тодоров",
+    "hosted": false,
+    "scorers": [
+      "Любомир Иванов",
+      "Валери Божинов",
+      "Здравко Димитров",
+      "Петьо Петков (аг)",
+      "Мартин Д.Петков"
+    ],
+    "date": "21 октомври 2020 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Славиша Стоянович",
+    "hosted": true,
+    "scorers": [
+      "Мартин Камбуров (д)",
+      "Найджъл Роберта",
+      "Найджъл Роберта",
+      "Найджъл Роберта"
+    ],
+    "date": "03 март 2021 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Славиша Стоянович",
+    "hosted": false,
+    "scorers": [
+      "Питър Макрилос",
+      "Марин Петков",
+      "Калоян Кръстев"
+    ],
+    "date": "17 март 2021 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Живко Миланов",
+    "hosted": true,
+    "scorers": [
+      "Марин Петков",
+      "Емил Виячки",
+      "Калоян Кръстев"
+    ],
+    "date": "24 юли 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Живко Миланов",
+    "hosted": false,
+    "date": "31 юли 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Арда 1924 (Кърджали)",
+    "levski_goals": 0,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Живко Миланов",
+    "hosted": true,
+    "date": "08 август 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Царско село 2015 (София)",
+    "levski_goals": 3,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Живко Миланов",
+    "hosted": true,
+    "scorers": [
+      "Васил Шопов",
+      "Борислав Цонев",
+      "Мартин Д.Петков",
+      "Андриан Краев"
+    ],
+    "date": "14 август 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 1,
+    "opponent_goals": 3,
+    "result": "loss",
+    "coach": "Живко Миланов",
+    "hosted": false,
+    "scorers": [
+      "Тодор Неделев (д)",
+      "Симеон Славчев",
+      "Антоан Бароан",
+      "Радослав Цонев"
+    ],
+    "date": "20 август 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Тодор Симов",
+    "hosted": true,
+    "scorers": [
+      "Христофор Хубчев",
+      "Борислав Цонев",
+      "Кийлън Лебон"
+    ],
+    "date": "28 август 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 2,
+    "result": "tie",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "scorers": [
+      "Бирсент Карагарен (аг)",
+      "Бирсент Карагарен",
+      "Георги Миланов",
+      "Димитър Кр.Илиев"
+    ],
+    "date": "12 септември 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА 1948 (София)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Станимир Стоилов",
+    "hosted": true,
+    "date": "18 септември 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА-София (София)",
+    "levski_goals": 1,
+    "opponent_goals": 2,
+    "result": "loss",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "scorers": [
+      "Георги Миланов",
+      "Греъм Кери",
+      "Жорди Кайседо"
+    ],
+    "date": "26 септември 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Лудогорец 1945 (Разград)",
+    "levski_goals": 2,
+    "opponent_goals": 4,
+    "result": "loss",
+    "coach": "Станимир Стоилов",
+    "hosted": true,
+    "scorers": [
+      "Борислав Цонев",
+      "Доминик Янков",
+      "Пиерос Сотириу",
+      "Борислав Цонев",
+      "Елвис Ману",
+      "Бърнард Текпетей"
+    ],
+    "date": "03 октомври 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1929 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "scorers": [
+      "Октавио",
+      "Здравко Димитров",
+      "Билал Бари",
+      "Пламен Крачунов"
+    ],
+    "date": "16 октомври 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Пирин (Благоевград)",
+    "levski_goals": 3,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": true,
+    "scorers": [
+      "Марин Петков",
+      "Марин Петков",
+      "Билал Бари"
+    ],
+    "date": "23 октомври 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Черно море (Варна)",
+    "levski_goals": 0,
+    "opponent_goals": 1,
+    "result": "loss",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "date": "30 октомври 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Славия 1913 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "scorers": [
+      "Билал Бари"
+    ],
+    "date": "06 ноември 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Враца)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Станимир Стоилов",
+    "hosted": true,
+    "date": "22 ноември 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Арда 1924 (Кърджали)",
+    "levski_goals": 0,
+    "opponent_goals": 0,
+    "result": "tie",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "date": "27 ноември 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Царско село 2015 (София)",
+    "levski_goals": 1,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "scorers": [
+      "Билал Бари"
+    ],
+    "date": "01 декември 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Ботев (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": true,
+    "scorers": [
+      "Гьоко Зайков",
+      "Борислав Цонев"
+    ],
+    "date": "04 декември 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Берое (Стара Загора)",
+    "levski_goals": 1,
+    "opponent_goals": 1,
+    "result": "tie",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "scorers": [
+      "Билал Бари",
+      "Алиюн Фол"
+    ],
+    "date": "12 декември 2021 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Локомотив 1926 (Пловдив)",
+    "levski_goals": 2,
+    "opponent_goals": 1,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": true,
+    "scorers": [
+      "Андриан Краев",
+      "Милош Петрович",
+      "Филип Кръстев"
+    ],
+    "date": "19 февруари 2022 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "ЦСКА 1948 (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "scorers": [
+      "Димитър Костадинов",
+      "Велтон Фелипе"
+    ],
+    "date": "26 февруари 2022 година",
+    "tournament": "Първа професионална лига - първи етап"
+  },
+  {
+    "opponent_name": "Марек 1915 (Дупница)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": false,
+    "scorers": [
+      "Димитър Костадинов",
+      "Димитър Костадинов"
+    ],
+    "date": "22 септември 2021 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Септември (Симитли)",
+    "levski_goals": 7,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": true,
+    "scorers": [
+      "Марин Петков",
+      "Билал Бари",
+      "Билал Бари",
+      "Георги Миланов",
+      "Билал Бари",
+      "Борислав Цонев",
+      "Димитър Костадинов"
+    ],
+    "date": "26 октомври 2021 година",
+    "tournament": "Купа на България"
+  },
+  {
+    "opponent_name": "Септември (София)",
+    "levski_goals": 2,
+    "opponent_goals": 0,
+    "result": "win",
+    "coach": "Станимир Стоилов",
+    "hosted": true,
+    "scorers": [
+      "Димитър Костадинов",
+      "Георги Миланов"
+    ],
+    "date": "02 март 2022 година",
+    "tournament": "Купа на България"
+  }
+]
